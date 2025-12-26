@@ -41,7 +41,7 @@ Each summary includes title, authors, publication date, and URL
 ```
 
 git clone https://github.com/debin2025/AutoResearcher.git
-cd autoresearcher
+cd AutoResearcher
 
 ```
 
